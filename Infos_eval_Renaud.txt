@@ -1,0 +1,13 @@
+Bonjour Guillaume,
+
+je pense avoir terminer et répondu à toutes les demandes de l'évaluation. Tu vas certainement trouver beaucoup de failles, je n'en doute pas !
+
+Dans ma base de donnée il y a :
+
+- 1 admin : Pseudo = Jean, Mot de passe = Jean
+- 2 utilisateurs : - Pseudo = Reno, Mot de passe = reno
+			 - Pseudo = Machin, Mot de passe = truc
+
+A toi de jouer ;)
+
+A bientôt.
